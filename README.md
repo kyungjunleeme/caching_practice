@@ -12,3 +12,6 @@ https://docs.google.com/document/d/1I5Kgj83i9dS27RVIqwn_oNaiiP_Qt4lheCNOq_IuPsU/
 
 
 https://www.slideshare.net/charsyam2/redis-196314086
+
+
+https://americanopeople.tistory.com/317
