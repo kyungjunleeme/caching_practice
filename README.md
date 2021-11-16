@@ -15,3 +15,5 @@ https://www.slideshare.net/charsyam2/redis-196314086
 
 
 https://americanopeople.tistory.com/317
+
+https://toss.tech/article/smart-web-service-cache?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR0zpTSUbtpn23oT9eKsIXFwpk4Y0DECuMacaCfTAvbaA8Yr3gdzQ44HBEU
